@@ -1,2 +1,2 @@
 # Pics
-My pic bed
+The pic bed is used for Ob
